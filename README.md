@@ -1,6 +1,7 @@
 Resume Creator
 Home page:-
-![resumeindex](https://user-images.githubusercontent.com/67550363/177715714-965127d2-d9ec-4bb1-b7c3-e0783ec412c8.PNG)
+![resumeindex](https://user-images.githubusercontent.com/67550363/177718841-b62ea38e-fb66-47d8-9d01-8536f00bb6b6.PNG)
+
 
 template page:-
 ![resumetemp](https://user-images.githubusercontent.com/67550363/177715638-19f63098-fc0d-417f-a40a-34b143a172fa.PNG)
