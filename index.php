@@ -85,7 +85,11 @@
                             <a href="templates.php" class="btn btn-default btn-lg"> <span class="network-name">Create Resume</span></a>
                         </li>
 
-                    </ul>
+                    </ul><br>
+                    <br><br>
+                    <br>
+                    <br>
+                    <p>Copyright © Korak Bhakta</p>
                 </div>
             </div>
         </div>
